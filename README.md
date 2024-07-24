@@ -1,39 +1,32 @@
-# app
+# Movies App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descripción
 
-## Recommended IDE Setup
+Movies App es una aplicación web construida con Vue 3, TypeScript, Pinia, Sass y Tailwind CSS. Permite a los usuarios filtrar y visualizar una lista de películas basadas en criterios como título, descripción y género. La aplicación utiliza un diseño responsivo para asegurar una buena experiencia en dispositivos de diferentes tamaños.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologías Utilizadas
 
-## Type Support for `.vue` Imports in TS
+- **Vue 3**: Framework de JavaScript para construir interfaces de usuario.
+- **TypeScript**: Superset de JavaScript que añade tipos estáticos.
+- **Pinia**: Librería para manejo del estado en Vue.js.
+- **Sass**: Preprocesador de CSS para manejar estilos.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Configuración del Proyecto
 
-## Customize configuration
+1. **Instalar Dependencias**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+    ```sh
+    npm install
+    ```
 
-## Project Setup
+2. **Compilar y Recargar en Desarrollo**
 
-```sh
-npm install
-```
+    ```sh
+    npm run dev
+    ```
 
-### Compile and Hot-Reload for Development
+3. **Verificar Tipos, Compilar y Minimizar para Producción**
 
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+    ```sh
+    npm run build
+    ```
