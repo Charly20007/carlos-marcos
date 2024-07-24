@@ -44,5 +44,5 @@ const updateFilter = (key: string, value: string) => {
 </script>
 
 <style scoped>
-/* Aquí puedes agregar estilos específicos para este componente */
+
 </style>

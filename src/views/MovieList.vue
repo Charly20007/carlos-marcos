@@ -5,8 +5,6 @@ import { useMovieFilter } from '@/composables/useMovieFilter'
 
 const { filteredMovies } = useMovieFilter()
 
-// Depurar los datos filtrados en el componente
-console.log('Filtered Movies in Component:', filteredMovies.value); // Añadir aquí
 </script>
 
 <template>
@@ -20,5 +18,5 @@ console.log('Filtered Movies in Component:', filteredMovies.value); // Añadir a
 </template>
 
 <style scoped>
-/* Aquí puedes agregar estilos específicos para esta vista */
+
 </style>

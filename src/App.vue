@@ -5,7 +5,7 @@ import { RouterView } from 'vue-router'
 <template>
   <AppHeader />
     <main>
-      <router-view /> <!-- Aquí se renderizarán las vistas de tus rutas -->
+      <router-view />
     </main>
   <AppFooter />
 </template>

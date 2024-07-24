@@ -21,5 +21,5 @@ const { movie } = props;
 </script>
 
 <style scoped>
-/* Aquí puedes agregar estilos específicos para este componente */
+
 </style>

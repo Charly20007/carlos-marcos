@@ -29,7 +29,6 @@ export const useMovieStore = defineStore('movie', () => {
         movie.genre.toLowerCase().includes(filters.value.genre.toLowerCase())
       );
     });
-    console.log('Filtered Movies:', result); // Añadir aquí
     return result;
   });
 
