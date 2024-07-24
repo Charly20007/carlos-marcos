@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Blue Lock: Episodio Nagi",
+    "description": "La habilidad oculta de Nagi para jugar fútbol y compartir su extraordinario talento.",
+    "genre": "Anime",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002101?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "genre": "Drama",
+    "imageUrl": "https://example.com/images/shawshank-redemption.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "genre": "Action",
+    "imageUrl": "https://example.com/images/dark-knight.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+    "genre": "Drama",
+    "imageUrl": "https://example.com/images/forrest-gump.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Matrix",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "genre": "Science Fiction",
+    "imageUrl": "https://example.com/images/matrix.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genre": "Crime",
+    "imageUrl": "https://example.com/images/pulp-fiction.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "genre": "Crime",
+    "imageUrl": "https://example.com/images/godfather.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a soap salesman build a global organization to help vent male aggression.",
+    "genre": "Drama",
+    "imageUrl": "https://example.com/images/fight-club.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "genre": "Science Fiction",
+    "imageUrl": "https://example.com/images/interstellar.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Avengers",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "genre": "Action",
+    "imageUrl": "https://example.com/images/avengers.jpg"
+  }
+]
