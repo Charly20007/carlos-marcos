@@ -8,8 +8,6 @@ export function useMovieFilter() {
     movieStore.filters[key] = value;
   };
 
-//   const filteredMovies = computed(() => movieStore.filteredMovies);
-// Depurar los filtros y películas filtradas
 const filteredMovies = computed(() => {
     const result = movieStore.filteredMovies;
     return result;

@@ -8,65 +8,65 @@
   },
   {
     "id": 2,
-    "title": "The Shawshank Redemption",
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "genre": "Drama",
-    "imageUrl": "https://example.com/images/shawshank-redemption.jpg"
+    "title": "Carrusel",
+    "description": "Un grupo de antiguos amigos gana una visita exclusiva de Halloween a un parque de atracciones",
+    "genre": "Terror",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002059?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 3,
-    "title": "The Dark Knight",
-    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
-    "genre": "Action",
-    "imageUrl": "https://example.com/images/dark-knight.jpg"
+    "title": "De noche con el Diablo",
+    "description": "Durante la noche de Halloween de 1977, en el set de televisión del programa, ocurrieron eventos aterradores... Jack Delroy está decidido a impulsar el rating de su programa televisivo.",
+    "genre": "Terror",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002102?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 4,
-    "title": "Forrest Gump",
-    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-    "genre": "Drama",
-    "imageUrl": "https://example.com/images/forrest-gump.jpg"
+    "title": "El ultimo Conjuro",
+    "description": "Devastado tras la muerte de su esposa, Naoto no encuentra consuelo. Su hijo, tratando de consolarse, trae a casa un dedo de su madre fallecida. Este será solo el comienzo de una serie de eventos terrorificos.",
+    "genre": "Terror",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002054?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 5,
-    "title": "The Matrix",
-    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-    "genre": "Science Fiction",
-    "imageUrl": "https://example.com/images/matrix.jpg"
+    "title": "Bad Boys",
+    "description": "Este verano, los Bad Boys favoritos del mundo están de regreso con su icónica mezcla de acción al borde de su asiento y comedia escandalosa, pero esta vez con un giro: los mejores de Miami ahora están huyendo.",
+    "genre": "Accion",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002029?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 6,
-    "title": "Pulp Fiction",
-    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "genre": "Crime",
-    "imageUrl": "https://example.com/images/pulp-fiction.jpg"
+    "title": "Mi villano favorito",
+    "description": "Un nuevo capítulo en el que Gru, Lucy y sus hijas dan la bienvenida a un nuevo miembro de la familia, Gru Jr, que se empeña en atormentar a su padre",
+    "genre": "Anime",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002007?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 7,
-    "title": "The Godfather",
-    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-    "genre": "Crime",
-    "imageUrl": "https://example.com/images/godfather.jpg"
+    "title": "Tornados",
+    "description": "Edgar-Jones interpreta a Kate Cooper, una ex cazadora de tormentas perseguida por un devastador encuentro con un tornado durante sus años universitarios",
+    "genre": "Accion",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002016?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 8,
-    "title": "Fight Club",
+    "title": "Un Lugar en Silencio Dia Uno",
     "description": "An insomniac office worker and a soap salesman build a global organization to help vent male aggression.",
     "genre": "Drama",
-    "imageUrl": "https://example.com/images/fight-club.jpg"
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002006?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 9,
-    "title": "Interstellar",
+    "title": "Maxxxine",
     "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-    "genre": "Science Fiction",
-    "imageUrl": "https://example.com/images/interstellar.jpg"
+    "genre": "Drama",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002083?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
     "id": 10,
-    "title": "The Avengers",
+    "title": "La otra Cara de la Luna",
     "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "genre": "Action",
-    "imageUrl": "https://example.com/images/avengers.jpg"
+    "genre": "Drama",
+    "imageUrl": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002081?referenceScheme=HeadOffice&allowPlaceHolder=true"
   }
 ]

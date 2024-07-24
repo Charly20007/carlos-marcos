@@ -1,0 +1,15 @@
+$primary-color: #f5f5f5;
+$secondary-color: #3498db;
+$text-color: #333;
+$border-radius: 8px;
+$font-family: 'Arial, sans-serif';
+
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin box-shadow($color) {
+  box-shadow: 0 2px 4px rgba($color, 0.1);
+}

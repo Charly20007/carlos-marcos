@@ -1,33 +1,63 @@
+<script setup lang="ts"></script>
+
 <template>
-  <header>
-    <nav>
-      <ul>
-        <li><router-link to="/">Home</router-link></li>
-        <li><router-link to="/">About</router-link></li>
-        <li><router-link to="/">Setting</router-link></li>
-        <li><router-link to="/">Example</router-link></li>
+  <header class="header">
+    <h1 class="header-title">Movies App</h1>
+    <nav class="header-nav">
+      <ul class="nav-list">
+        <li><a href="/">Home</a></li>
+        <li><a href="/">About</a></li> <!-- Lo puse para llenar el nav -->
+        <li><a href="/">Contact</a></li>        <!-- Lo puse para llenar el nav -->
       </ul>
     </nav>
   </header>
 </template>
 
-<script setup lang="ts"></script>
+<style lang="scss" scoped>
+@import '../assets/style/variables';
 
-<style scoped>
-header {
-  background-color: #333;
-  color: white;
-  padding: 1rem;
+.header {
+  background-color: $primary-color;
+  padding: 1rem 2rem;
+  @include flex-center;
+  flex-direction: row;
+  border-bottom: 1px solid $secondary-color;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    padding: 1rem;
+  }
 }
 
-nav ul {
+.header-title {
+  font-size: 2rem;
+  color: $secondary-color;
+  margin-right: auto;
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.header-nav .nav-list {
   list-style: none;
-  display: flex;
-  gap: 1rem;
+  @include flex-center;
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 1rem;
+  }
 }
 
-nav a {
-  color: white;
+.header-nav .nav-list li a {
   text-decoration: none;
+  color: $secondary-color;
+  font-family: $font-family;
+}
+
+.header-nav .nav-list li a:hover {
+  text-decoration: underline;
 }
 </style>
