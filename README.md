@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Movies App es una aplicación web construida con Vue 3, TypeScript, Pinia, Sass y Tailwind CSS. Permite a los usuarios filtrar y visualizar una lista de películas basadas en criterios como título, descripción y género. La aplicación utiliza un diseño responsivo para asegurar una buena experiencia en dispositivos de diferentes tamaños.
+Movies App es una aplicación web construida con Vue 3, TypeScript, Pinia, Sass . Permite a los usuarios filtrar y visualizar una lista de películas basadas en criterios como título, descripción y género. La aplicación utiliza un diseño responsivo para asegurar una buena experiencia en dispositivos de diferentes tamaños.
 
 ## Tecnologías Utilizadas
 
